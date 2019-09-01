@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\trace\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\trace\.Rider2019.2\system\resharper-host\Local\Transient\ReSharperHost\v192\SolutionCaches\_C# Loops in Unity!.1017375911.00" t="ExcludeRecursive" />
+    <e p="C:\Users\trace\Desktop\2019-scripting-\C# Loops in Unity!" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DowhileLoop.cs" t="Include" />
+        <e p="ForLoop.cs" t="Include" />
+        <e p="WhileLoop.cs" t="Include" />
+      </e>
+      <e p="C# Loops in Unity!.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
