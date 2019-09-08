@@ -10,10 +10,10 @@ public class Variables : MonoBehaviour
 
 	public float floatValue = 5f;
 	public int intValue = 20;
-	public string stringValue = "Bob11";
+	public string stringValue = "Bob!!";
 	public int firePower;
 	public UnityEvent Event;
-
+	public int applyDamage = 10;
 	
 	private void OnTriggerEnter(Collider other)
 	{
@@ -23,8 +23,11 @@ public class Variables : MonoBehaviour
 		
 	}
 
-	//private void OnParticleTrigger()
-	//{
-		//Event.Invoke();
-	//}
+	private void OnCollisionEnter(Collision other)
+	{
+		if (!enabled) return;
+		print("Test 2");
+		Event.Invoke();
+	}
+	
 }
