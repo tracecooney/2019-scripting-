@@ -29,5 +29,12 @@ public class Variables : MonoBehaviour
 		print("Test 2");
 		Event.Invoke();
 	}
-	
+
+	private void OnMouseDown()
+	{
+		
+		Event.Invoke();
+		print("Test 3");
+		applyDamage = 10;
+	}
 }
