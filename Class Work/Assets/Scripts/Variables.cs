@@ -23,12 +23,12 @@ public class Variables : MonoBehaviour
 		
 	}
 
-	private void OnCollisionEnter(Collision other)
-	{
-		if (!enabled) return;
-		print("Test 2");
-		Event.Invoke();
-	}
+	//private void OnCollisionEnter(Collision other)
+	//{
+		//if (!enabled) return;
+		//print("Test 2");
+		//Event.Invoke();
+	//}
 
 	private void OnMouseDown()
 	{

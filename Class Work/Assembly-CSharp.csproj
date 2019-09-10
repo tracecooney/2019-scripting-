@@ -59,6 +59,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\FloatData.cs" />
+    <Compile Include="Assets\Scripts\TriggerEvents.cs" />
     <Compile Include="Assets\Scripts\Variables.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/trace/Desktop/2019-scripting-/Class Work/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
