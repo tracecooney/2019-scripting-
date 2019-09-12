@@ -14,6 +14,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DogClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -22,6 +25,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Variables.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CatClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ParticleControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DogClass.cs" />
       </list>
     </option>
   </component>
@@ -75,6 +81,8 @@
       <workItem from="1567804848938" duration="1508000" />
       <workItem from="1567970239633" duration="3268000" />
       <workItem from="1568148311925" duration="3971000" />
+      <workItem from="1568262387071" duration="202000" />
+      <workItem from="1568320663654" duration="3965000" />
     </task>
     <servers />
   </component>
