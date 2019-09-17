@@ -10,6 +10,7 @@
           <e p="CatClass.cs" t="Include" />
           <e p="DogClass.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="Movment.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
