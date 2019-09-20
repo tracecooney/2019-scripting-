@@ -1,6 +1,8 @@
 ﻿
+using System;
 using UnityEngine;
 
+[RequireComponent(typeof(CharacterController))]
 public class Movment : MonoBehaviour
 {
 	private Vector3 position;
@@ -10,7 +12,12 @@ public class Movment : MonoBehaviour
 	public float jumpSpeed = 10f;
 
 	private int jumpCount = 2;
-	
+
+	private void Start()
+	{
+		controller = GetComponent<CharacterController>();
+	}
+
 	// Update is called once per frame
 	void Update () 
 	{
@@ -32,8 +39,8 @@ public class Movment : MonoBehaviour
 			position.y = jumpSpeed;
 			jumpCount--;
 		}
-		
 		controller.Move(position*Time.deltaTime);
 		//transform.Translate(position);
 	}
+	
 }

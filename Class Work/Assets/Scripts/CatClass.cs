@@ -6,10 +6,11 @@ using UnityEngine.Events;
 
 public class CatClass : MonoBehaviour
 {
+
     public UnityEvent turnOffLight;
     public UnityEvent explodeTheCat;
 
-    private void OnMouseDown()
+    public void OnTriggerEnter(Collider other)
     {
         turnOffLight.Invoke();
         explodeTheCat.Invoke();
