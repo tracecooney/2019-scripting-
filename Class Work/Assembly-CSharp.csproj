@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\CatClass.cs" />
     <Compile Include="Assets\Scripts\DogClass.cs" />
     <Compile Include="Assets\Scripts\FloatData.cs" />
+    <Compile Include="Assets\Scripts\Functions.cs" />
     <Compile Include="Assets\Scripts\GetFruit.cs" />
     <Compile Include="Assets\Scripts\IfStatments.cs" />
     <Compile Include="Assets\Scripts\Movment.cs" />

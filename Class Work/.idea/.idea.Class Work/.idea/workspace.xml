@@ -18,6 +18,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DogClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movment.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IfStatments.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" root0="FORCE_HIGHLIGHTING" />
@@ -37,6 +38,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/GetFruit.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IfStatments.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Functions.cs" />
       </list>
     </option>
   </component>
@@ -92,7 +94,7 @@
       <workItem from="1568148311925" duration="3971000" />
       <workItem from="1568262387071" duration="202000" />
       <workItem from="1568320663654" duration="4226000" />
-      <workItem from="1568753172708" duration="16024000" />
+      <workItem from="1568753172708" duration="19408000" />
     </task>
     <servers />
   </component>
