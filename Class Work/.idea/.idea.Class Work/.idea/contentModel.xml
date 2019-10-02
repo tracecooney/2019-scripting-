@@ -14,9 +14,11 @@
           <e p="Functions.cs" t="Include" />
           <e p="GetFruit.cs" t="Include" />
           <e p="IfStatments.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="Movment.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
+          <e p="UITextController.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
         </e>
       </e>

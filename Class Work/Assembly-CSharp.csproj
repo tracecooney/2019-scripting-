@@ -66,9 +66,11 @@
     <Compile Include="Assets\Scripts\Functions.cs" />
     <Compile Include="Assets\Scripts\GetFruit.cs" />
     <Compile Include="Assets\Scripts\IfStatments.cs" />
+    <Compile Include="Assets\Scripts\IntData.cs" />
     <Compile Include="Assets\Scripts\Movment.cs" />
     <Compile Include="Assets\Scripts\ParticleControl.cs" />
     <Compile Include="Assets\Scripts\TriggerEvents.cs" />
+    <Compile Include="Assets\Scripts\UITextController.cs" />
     <Compile Include="Assets\Scripts\Variables.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/trace/Desktop/2019-scripting-/Class Work/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
