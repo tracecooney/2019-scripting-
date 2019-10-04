@@ -16,10 +16,11 @@ public class UITextController : MonoBehaviour
 		textLabel.text = data.value.ToString();
 	}
 
-	void Start ()
+	void Awake ()
 	{
 		textLabel = GetComponent<Text>();
 		startEvent.Invoke();
 	}
+	
 	
 }

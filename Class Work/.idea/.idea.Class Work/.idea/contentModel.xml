@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="ApplyForce.cs" t="Include" />
+          <e p="CameraFollow.cs" t="Include" />
           <e p="CatClass.cs" t="Include" />
           <e p="DogClass.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
@@ -15,9 +16,11 @@
           <e p="GetFruit.cs" t="Include" />
           <e p="IfStatments.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
+          <e p="MonoEvents.cs" t="Include" />
           <e p="Movment.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
+          <e p="UIImageController.cs" t="Include" />
           <e p="UITextController.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
         </e>

@@ -67,9 +67,11 @@
     <Compile Include="Assets\Scripts\GetFruit.cs" />
     <Compile Include="Assets\Scripts\IfStatments.cs" />
     <Compile Include="Assets\Scripts\IntData.cs" />
+    <Compile Include="Assets\Scripts\MonoEvents.cs" />
     <Compile Include="Assets\Scripts\Movment.cs" />
     <Compile Include="Assets\Scripts\ParticleControl.cs" />
     <Compile Include="Assets\Scripts\TriggerEvents.cs" />
+    <Compile Include="Assets\Scripts\UIImageController.cs" />
     <Compile Include="Assets\Scripts\UITextController.cs" />
     <Compile Include="Assets\Scripts\Variables.cs" />
     <Reference Include="UnityEditor.StandardEvents">
