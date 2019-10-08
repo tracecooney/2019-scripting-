@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3cd5b5cfba6b804daaccaa0d1974edf, type: 3}
+  m_Name: GreenCricle
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 2ccdffe4bb9caaf41b36cee32c9bf62f, type: 3}
+  color: {r: 0, g: 1, b: 0.35566998, a: 1}
+  prefab: {fileID: 1635759848968758, guid: 06e3f9ea95e92a34badc650483f549fb, type: 2}
+  weapon: {fileID: 0}
