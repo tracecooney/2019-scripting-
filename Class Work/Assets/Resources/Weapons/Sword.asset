@@ -14,3 +14,5 @@ MonoBehaviour:
   sprite: {fileID: 0}
   color: {r: 0, g: 0, b: 0, a: 0}
   prefab: {fileID: 0}
+  health: {fileID: 11400000, guid: a559a0f8b345e8b41a7ce07acd179ac8, type: 2}
+  weapons: []

@@ -2,11 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WeaponData : ScriptableObject
+public class WeaponData : GameArtData
 {
+    public int powerLevel = 10;
     public Sprite sprite;
     public Color color;
     public GameObject prefab;
-    
-    public int weaponPower = 10;
 }

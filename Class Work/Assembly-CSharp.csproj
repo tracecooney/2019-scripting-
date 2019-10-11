@@ -61,22 +61,24 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ApplyForce.cs" />
     <Compile Include="Assets\Scripts\CatClass.cs" />
+    <Compile Include="Assets\Scripts\ClothesData.cs" />
+    <Compile Include="Assets\Scripts\DataScripts\FloatData.cs" />
+    <Compile Include="Assets\Scripts\DataScripts\GameArtData.cs" />
+    <Compile Include="Assets\Scripts\DataScripts\IntData.cs" />
+    <Compile Include="Assets\Scripts\DataScripts\PlayerData.cs" />
+    <Compile Include="Assets\Scripts\DataScripts\WeaponData.cs" />
     <Compile Include="Assets\Scripts\DogClass.cs" />
-    <Compile Include="Assets\Scripts\FloatData.cs" />
+    <Compile Include="Assets\Scripts\EnemyFollow.cs" />
     <Compile Include="Assets\Scripts\Functions.cs" />
-    <Compile Include="Assets\Scripts\GameArtData.cs" />
     <Compile Include="Assets\Scripts\GetFruit.cs" />
     <Compile Include="Assets\Scripts\IfStatments.cs" />
-    <Compile Include="Assets\Scripts\IntData.cs" />
     <Compile Include="Assets\Scripts\MonoEvents.cs" />
     <Compile Include="Assets\Scripts\Movment.cs" />
     <Compile Include="Assets\Scripts\ParticleControl.cs" />
-    <Compile Include="Assets\Scripts\PlayerData.cs" />
     <Compile Include="Assets\Scripts\TriggerEvents.cs" />
     <Compile Include="Assets\Scripts\UIImageController.cs" />
     <Compile Include="Assets\Scripts\UITextController.cs" />
     <Compile Include="Assets\Scripts\Variables.cs" />
-    <Compile Include="Assets\Scripts\WeaponData.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/trace/Desktop/2019-scripting-/Class Work/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
