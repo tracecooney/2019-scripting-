@@ -7,6 +7,11 @@ public class Enemy : MonoBehaviour
 	public float speed;
 	public float stopDistance;
 	public float retreatDistance;
+
+	private float timeBtwShots;
+	private float startTimeBtwShots;
+
+	private Transform player;
 	void Start ()
 	{
 		player = GameObject.FindGameObjectWithTag("Player").transform;
@@ -21,9 +26,12 @@ public class Enemy : MonoBehaviour
 		{
 			transform.position = this.transform.position;
 		}
+		else if (Vector2.Distance(transform.position,player.position) < retreatDistance)
 		{
-			
+			transform.position = Vector2.MoveTowards(transform.position, player.position, -speed * Time.deltaTime);
 		}
-		
+
+
+
 	}
 }

@@ -124,7 +124,7 @@
       <workItem from="1568320663654" duration="4226000" />
       <workItem from="1568753172708" duration="37249000" />
       <workItem from="1570739321839" duration="6412000" />
-      <workItem from="1570823675311" duration="2182000" />
+      <workItem from="1570823675311" duration="3128000" />
     </task>
     <servers />
   </component>
@@ -148,6 +148,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="342" y="85" key="SettingsEditor" />
+    <state x="342" y="85" key="SettingsEditor/2736.1824" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
