@@ -11,10 +11,12 @@ public class Enemy : MonoBehaviour
 	private float timeBtwShots;
 	private float startTimeBtwShots;
 
+	public GameObject projectille;
 	private Transform player;
 	void Start ()
 	{
 		player = GameObject.FindGameObjectWithTag("Player").transform;
+		timeBtwShots = startTimeBtwShots
 	}
 	void Update () 
 	{
@@ -29,6 +31,16 @@ public class Enemy : MonoBehaviour
 		else if (Vector2.Distance(transform.position,player.position) < retreatDistance)
 		{
 			transform.position = Vector2.MoveTowards(transform.position, player.position, -speed * Time.deltaTime);
+		}
+
+		if (timeBtwShots <= 0)
+		{
+			Instantiate(projectille, transform.position, Quaternion.identity);
+			timeBtwShots = startTimeBtwShots;
+		}
+		else
+		{
+			timeBtwShots -= Time.deltaTime;
 		}
 
 
