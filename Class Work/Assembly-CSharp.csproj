@@ -61,6 +61,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ApplyForce.cs" />
     <Compile Include="Assets\Scripts\CatClass.cs" />
+    <Compile Include="Assets\Scripts\CineColltroller.cs" />
     <Compile Include="Assets\Scripts\ClothesData.cs" />
     <Compile Include="Assets\Scripts\DataScripts\FloatData.cs" />
     <Compile Include="Assets\Scripts\DataScripts\GameArtData.cs" />

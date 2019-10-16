@@ -14,6 +14,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GetFruit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CineColltroller.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UITextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IfStatments.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
@@ -63,9 +64,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/WeaponData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ClothesData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CineColltroller.cs" />
       </list>
     </option>
   </component>
@@ -124,7 +126,8 @@
       <workItem from="1568320663654" duration="4226000" />
       <workItem from="1568753172708" duration="37249000" />
       <workItem from="1570739321839" duration="6412000" />
-      <workItem from="1570823675311" duration="4034000" />
+      <workItem from="1570823675311" duration="4478000" />
+      <workItem from="1571172465264" duration="2032000" />
     </task>
     <servers />
   </component>
