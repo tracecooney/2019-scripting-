@@ -11,7 +11,11 @@
           <e p="CatClass.cs" t="Include" />
           <e p="CineColltroller.cs" t="Include" />
           <e p="ClothesData.cs" t="Include" />
+          <e p="Collections" t="Include">
+            <e p="GameArtCollection.cs" t="Include" />
+          </e>
           <e p="DataScripts" t="Include">
+            <e p="CollectionData.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="GameArtData.cs" t="Include" />
             <e p="IntData.cs" t="Include" />

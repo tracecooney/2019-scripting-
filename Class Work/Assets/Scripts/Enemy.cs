@@ -16,7 +16,7 @@ public class Enemy : MonoBehaviour
 	void Start ()
 	{
 		player = GameObject.FindGameObjectWithTag("Player").transform;
-		timeBtwShots = startTimeBtwShots
+		timeBtwShots = startTimeBtwShots;
 	}
 	void Update () 
 	{

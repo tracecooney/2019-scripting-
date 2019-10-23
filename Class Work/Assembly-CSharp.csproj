@@ -63,6 +63,8 @@
     <Compile Include="Assets\Scripts\CatClass.cs" />
     <Compile Include="Assets\Scripts\CineColltroller.cs" />
     <Compile Include="Assets\Scripts\ClothesData.cs" />
+    <Compile Include="Assets\Scripts\Collections\GameArtCollection.cs" />
+    <Compile Include="Assets\Scripts\DataScripts\CollectionData.cs" />
     <Compile Include="Assets\Scripts\DataScripts\FloatData.cs" />
     <Compile Include="Assets\Scripts\DataScripts\GameArtData.cs" />
     <Compile Include="Assets\Scripts\DataScripts\IntData.cs" />
