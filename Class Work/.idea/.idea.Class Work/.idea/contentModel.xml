@@ -22,8 +22,10 @@
             <e p="PlayerData.cs" t="Include" />
             <e p="WeaponData.cs" t="Include" />
           </e>
+          <e p="Debugger.cs" t="Include" />
           <e p="DogClass.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
+          <e p="ENUMSwitch.cs" t="Include" />
           <e p="Functions.cs" t="Include" />
           <e p="GetFruit.cs" t="Include" />
           <e p="IfStatments.cs" t="Include" />
