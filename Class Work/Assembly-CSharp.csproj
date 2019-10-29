@@ -75,6 +75,7 @@
     <Compile Include="Assets\Scripts\Functions.cs" />
     <Compile Include="Assets\Scripts\GetFruit.cs" />
     <Compile Include="Assets\Scripts\IfStatments.cs" />
+    <Compile Include="Assets\Scripts\JumpThrough.cs" />
     <Compile Include="Assets\Scripts\MonoEvents.cs" />
     <Compile Include="Assets\Scripts\Movment.cs" />
     <Compile Include="Assets\Scripts\ParticleControl.cs" />
