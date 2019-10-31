@@ -23,6 +23,7 @@
             <e p="WeaponData.cs" t="Include" />
           </e>
           <e p="Debugger.cs" t="Include" />
+          <e p="DebuggerObj.cs" t="Include" />
           <e p="DogClass.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
           <e p="ENUMSwitch.cs" t="Include" />
@@ -33,10 +34,12 @@
           <e p="MonoEvents.cs" t="Include" />
           <e p="Movment.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
+          <e p="PlayerHandler.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="UIImageController.cs" t="Include" />
           <e p="UITextController.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
+          <e p="WeaponSwitch.cs" t="Include" />
         </e>
       </e>
       <e p="Class Work.sln" t="IncludeFlat" />
