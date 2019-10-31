@@ -8,8 +8,26 @@ public class PlayerMover : MonoBehaviour
 	//This is a Udemy Tutorial
 	[SerializeField]
 	private Transform target;
-	private void Update ()
+
+	private Ray lastRay;
+
+	private void Update()
 	{
-		GetComponent<NavMeshAgent>().destination = target.position;
+		if (Input.GetMouseButtonDown(0))
+		{
+			MoveToCursor();
+		}
+	}
+
+	private void MoveToCursor()
+	{
+		print(Camera.main);
+		Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+		RaycastHit hit;
+		bool hasHit = Physics.Raycast(ray, out hit);
+		if (hasHit)
+		{
+			GetComponent<NavMeshAgent>().destination = hit.point;
+		}
 	}
 }
