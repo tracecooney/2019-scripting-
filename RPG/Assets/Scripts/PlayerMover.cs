@@ -6,11 +6,6 @@ using UnityEngine.AI;
 public class PlayerMover : MonoBehaviour
 {
 	//This is a Udemy Tutorial
-	[SerializeField]
-	private Transform target;
-
-	private Ray lastRay;
-
 	private void Update()
 	{
 		if (Input.GetMouseButtonDown(0))
