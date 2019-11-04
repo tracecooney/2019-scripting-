@@ -19,8 +19,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FollowCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMover.cs" />
       </list>
     </option>
   </component>
@@ -71,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572483116164</updated>
       <workItem from="1572483119729" duration="8174000" />
+      <workItem from="1572897036751" duration="1059000" />
     </task>
     <servers />
   </component>
@@ -84,7 +85,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
