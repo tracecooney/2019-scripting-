@@ -244,6 +244,11 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!4 &336762293 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4327953382896214, guid: 71fda1f4cf58013449badd1c4790adc7,
+    type: 2}
+  m_PrefabInternal: {fileID: 863542945}
 --- !u!1001 &475949967
 Prefab:
   m_ObjectHideFlags: 0
@@ -482,6 +487,23 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9e43315bd1f3b2f4cbe81db778fdf7fe, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1 &1205620734 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1351548839015562, guid: 71fda1f4cf58013449badd1c4790adc7,
+    type: 2}
+  m_PrefabInternal: {fileID: 863542945}
+--- !u!114 &1205620736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1205620734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b99a80e6e641507499c66ec0440b9e80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 336762293}
 --- !u!1 &1873411062
 GameObject:
   m_ObjectHideFlags: 0
