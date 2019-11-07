@@ -8,6 +8,7 @@ using UnityEngine.AI;
 public class AgentHandler : MonoBehaviour
 {
 	private NavMeshAgent agent;
+	public Vector3 location;
 	private Transform currentDestioation;
 	public Transform destinationObj;
 	private GameObject startObj;
@@ -33,5 +34,6 @@ public class AgentHandler : MonoBehaviour
 	void Update ()
 	{
 		agent.destination = currentDestioation.position;
+		agent.destination = location;
 	}
 }
