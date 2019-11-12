@@ -8,10 +8,6 @@ public class PlayerMover : MonoBehaviour
 	//This is a Udemy Tutorial
 	private void Update()
 	{
-		if (Input.GetMouseButton(0))
-		{
-			MoveToCursor();
-		}
 		UpdateAnimator();
 	}
 
@@ -23,10 +19,16 @@ public class PlayerMover : MonoBehaviour
 		bool hasHit = Physics.Raycast(ray, out hit);
 		if (hasHit)
 		{
-			GetComponent<NavMeshAgent>().destination = hit.point;
+			MoveTo(hit.point);
 		}
 	}
-		private void UpdateAnimator()
+
+	public void MoveTo(Vector3 destination)
+	{
+		GetComponent<NavMeshAgent>().destination = destination;
+	}
+
+	private void UpdateAnimator()
      		{
      			Vector3 velocity = GetComponent<NavMeshAgent>().velocity;
      			Vector3 localVelocity = transform.InverseTransformDirection(velocity);
