@@ -12,9 +12,15 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
-          <e p="FollowCamera.cs" t="Include" />
-          <e p="Mover.cs" t="Include" />
-          <e p="PlayerMover.cs" t="Include" />
+          <e p="Combat" t="Include">
+            <e p="CombatTarget.cs" t="Include" />
+            <e p="Fighter.cs" t="Include" />
+          </e>
+          <e p="Control" t="Include">
+            <e p="FollowCamera.cs" t="Include" />
+            <e p="Mover.cs" t="Include" />
+            <e p="PlayerMover.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />

@@ -96,7 +96,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controller: {fileID: 0}
   speed: 20
-  gravity: 3
+  gravity: 1
   jumpSpeed: 50
 --- !u!143 &143282252585558510
 CharacterController:

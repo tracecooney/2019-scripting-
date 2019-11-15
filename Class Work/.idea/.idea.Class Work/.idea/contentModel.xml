@@ -14,6 +14,7 @@
           <e p="Collections" t="Include">
             <e p="GameArtCollection.cs" t="Include" />
           </e>
+          <e p="CoroutineClass.cs" t="Include" />
           <e p="DataScripts" t="Include">
             <e p="CollectionData.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />

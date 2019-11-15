@@ -15,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ENUMSwitch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeaponSwitch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroutineClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UITextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IfStatments.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
@@ -85,6 +86,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ENUMSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/WeaponSwitch.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Coroutinelass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CoroutineClass.cs" />
       </list>
     </option>
   </component>
@@ -146,6 +149,7 @@
       <workItem from="1570823675311" duration="4478000" />
       <workItem from="1571172465264" duration="15977000" />
       <workItem from="1572556377883" duration="1201000" />
+      <workItem from="1573767900365" duration="3957000" />
     </task>
     <servers />
   </component>
@@ -173,6 +177,8 @@
   <component name="WindowStateProjectService">
     <state x="342" y="85" key="SettingsEditor" />
     <state x="342" y="85" key="SettingsEditor/2736.1824" />
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" />
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup/2736.1824" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

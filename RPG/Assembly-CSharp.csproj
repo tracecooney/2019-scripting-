@@ -59,9 +59,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\FollowCamera.cs" />
-    <Compile Include="Assets\Scripts\Mover.cs" />
-    <Compile Include="Assets\Scripts\PlayerMover.cs" />
+    <Compile Include="Assets\Scripts\Combat\CombatTarget.cs" />
+    <Compile Include="Assets\Scripts\Combat\Fighter.cs" />
+    <Compile Include="Assets\Scripts\Control\FollowCamera.cs" />
+    <Compile Include="Assets\Scripts\Control\Mover.cs" />
+    <Compile Include="Assets\Scripts\Control\PlayerMover.cs" />
     <None Include="Assets\Jeremy\Docs\MaleCharacterAnimation.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/trace/Desktop/2019-scripting-/RPG/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
